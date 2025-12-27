@@ -1,2 +1,11 @@
-# hpv-genotype-detection-using-ML-model-
-This repository is about detecting hpv genotypes in pap( pap is a cytological  test to detect cervical cancer  using cervical smears )  data based on  pap results and microorganism found in pap test  using ML models , the clinical sample data is generated during my dissertation  at Adyar cancer institute chennai.
+# ML model in predicting hpv genotypes (14 high risk hpv ) in cervical cancer diagnosis 
+This repository is about detecting hpv genotypes incervical cancer diagnosis ( pap) .
+# data set 
+the data set was generated  from clinical laboratory diagnosis data from cancer institute chennai.
+#diagnosis
+ samples : community screening samples around soyluth india .
+ hpv diagnosis using pcr, cervical cancer diagnosis using pap 
+ #data anlysis and visualization 
+ 
+
+
